@@ -43,13 +43,11 @@ Our team used javascript to include APIs into our webpage. These APIs serve as o
 
 ![alt text](https://github.com/jjarquin1/GitGoin/blob/main/images/img5.png)
 
-![alt text](https://github.com/jjarquin1/GitGoin/blob/main/images/img7.png)
-
 ![alt text](https://github.com/jjarquin1/GitGoin/blob/main/images/img8.png)
 
 ![alt text](https://github.com/jjarquin1/GitGoin/blob/main/images/img9.png)
 
-![alt text](https://github.com/jjarquin1/GitGoin/blob/main/images/img10.png)
+
 
 
 
